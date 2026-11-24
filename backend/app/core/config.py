@@ -8,7 +8,7 @@ class Settings(BaseSettings):
 
     POSTGRES_SERVER: str = "localhost"
     POSTGRES_USER: str = "postgres"
-    POSTGRES_PASSWORD: str = "postgres"
+    POSTGRES_PASSWORD: str = "Ronith"
     POSTGRES_DB: str = "bonescan_db"
     POSTGRES_PORT: str = "5432"
 
